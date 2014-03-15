@@ -1,6 +1,11 @@
 This was written at the UMKC ACM code jam on Friday, March 14.
 
-This is a bot written to play the game 'Ghost' against other bots written at the code jam. https://en.wikipedia.org/wiki/Ghost_(game)
+This is a bot written to play the game 'Ghost' against other bots written at the code jam. 
+
+From the wiki on ghost:
+
+"Ghost is a written or spoken word game in which players take turns adding letters to a growing word fragment, trying not to be the one to complete a valid word. Each fragment must be the beginning of an actual word, and usually some minimum is set on the length of a word that counts, such as three or four letters. The player who completes a word loses the round and earns a "letter" (as in the basketball game horse), with players being eliminated when they have been given all five letters of the word "ghost".
+Ghost can be played by two or more players of any age and requires no equipment, although it can be played with pencil and paper instead of being spoken aloud." - https://en.wikipedia.org/wiki/Ghost_(game)
 
 Unfortunately, the other bots were unable to compete very well. This bot won every single round and claimed victory!
 
