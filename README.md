@@ -4,6 +4,9 @@ This is a bot written to play the game 'Ghost' against other bots written at the
 
 Unfortunately, the other bots were unable to compete very well. This bot won every single round and claimed victory!
 
+The dictionary files it pulls from are from /usr/dict/words and the standard scrabble word list
+
+
 The algorithm for this bot is as follows:
 
 	load up the dictionary files into a set
